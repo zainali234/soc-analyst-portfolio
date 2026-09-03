@@ -187,5 +187,53 @@ Determine Severity
 False Positive or True Positive
   ↓
 Document Findings
+Repository Structure
+soc-analyst-portfolio/
+│
+├── README.md
+│
+├── incident-reports/
+│   ├── brute-force/
+│   ├── phishing/
+│   ├── suspicious-login/
+│   └── malware/
+│
+├── splunk/
+│   ├── queries.md
+│   └── investigations/
+│
+├── wireshark/
+│   └── investigations/
+│
+├── threat-intelligence/
+│   ├── ip-analysis.md
+│   ├── domain-analysis.md
+│   └── hash-analysis.md
+│
+├── mitre-attack/
+│   └── attack-mapping.md
+│
+└── notes/
+    ├── windows-events.md
+    ├── linux-logs.md
+    └── networking.md
+Learning Platform
+Learning Platforms
+
+I use hands-on cybersecurity labs and practical exercises to develop my SOC Analyst skills.
+
+Currently focusing on:
+
+SOC Analyst Level 1
+SIEM
+Splunk
+Network Security Monitoring
+Windows Security Monitoring
+Linux Security Monitoring
+Phishing Analysis
+Threat Intelligence
+Incident Response
+MITRE ATT&CK
+
   ↓
 Close or Escalate
